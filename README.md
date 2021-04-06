@@ -19,7 +19,7 @@ sudo systemctl start docker
 sudo systemctl enable docker  
 sudo systemctl restart docker
 sudo systemctl status docker
-``
+```
 
 Deploy.
 
